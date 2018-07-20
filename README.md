@@ -10,9 +10,6 @@ Add this module to your addons folder
 
 There no Prerequisites to install and use this module just enjoy
 
-```
-Give examples
-```
 
 ### Description
 
