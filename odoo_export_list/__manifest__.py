@@ -17,6 +17,7 @@
     ],
 	'images': [
 		'static/src/img/main_1.png',
+		'static/src/img/main_2.png',
 		'static/src/img/main_screenshot.png'
 	],
     'qweb': [
