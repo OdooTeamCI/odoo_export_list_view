@@ -7,6 +7,7 @@
     'category': 'Web',
     'author': 'Nougbele Daniel, OdooTeamCI, \
             Odoo Community Association (OCA)',
+    'summary':'Odoo 11 module to export current list view',        
     'license': 'AGPL-3',
     'depends': [
         'web',
