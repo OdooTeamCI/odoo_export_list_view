@@ -3,7 +3,7 @@
 <templates id="template" xml:space="preserve">
 
 <t t-extend="ListView.buttons">
-    <t t-jquery="button.o_list_button_add" t-operation="after">
+    <t t-jquery="button.o_list_button_save" t-operation="before">
         <button class="btn btn-sm btn-default export_treeview_xls" type="button">Export</button>
     </t>
 </t>
